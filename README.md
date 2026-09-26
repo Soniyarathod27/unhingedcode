@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @unhingedcode
+- 👋 Hi, I’m @Soniya Rathod
 - 👀 I’m interested in software developer
 - 🌱 I’m currently learning Information Technology
 - 💞️ I’m looking to collaborate on hackthons 
